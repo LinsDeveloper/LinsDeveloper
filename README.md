@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Lins! 🚀
 
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lins-b6621a263/)
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lins-dev)
 [![blog](https://img.shields.io/badge/Instagram-AB2B28?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ipedro.lins)
 
 
