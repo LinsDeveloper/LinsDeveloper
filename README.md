@@ -5,8 +5,8 @@
 
 
 
-![LinsDeveloper GitHub stats](https://github-readme-stats-sidma-five.vercel.app/api?username=LinsDeveloper&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats-sidma-five.vercel.app/api/top-langs/?username=LinsDeveloper&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![LinsDeveloper GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LinsDeveloper&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LinsDeveloper&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
